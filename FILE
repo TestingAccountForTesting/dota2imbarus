@@ -1855,25 +1855,25 @@
 		"DOTA_Tooltip_modifier_imba_faceless_void_time_walk_slow_Description"				"Slowed briefly."
 
 		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_buff"						"Time Dilation"
-		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_buff_Description"			"Move and attack speed increased for each stack."
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_buff_Description"			"Скрорсть передвижения и атаку увеличен за каждый стак"
 
 		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_slow"						"Time Dilation"
-		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_slow_Description"			"Move and attack speed reduced for each stack."
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_slow_Description"			"Скорость передвижения и атаки уменьшен за каждый стак"
 
 		"DOTA_Tooltip_modifier_imba_faceless_void_time_lock_stun"							"Time Lock"
-		"DOTA_Tooltip_modifier_imba_faceless_void_time_lock_stun_Description"				"Frozen in time. Cannot move for the duration."
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_lock_stun_Description"				"Остановлен во времени. Нет возможности двигаться на время действия."
 
 		"DOTA_Tooltip_modifier_imba_faceless_void_chronosphere_caster_buff"					"Chronosphere"
-		"DOTA_Tooltip_modifier_imba_faceless_void_chronosphere_caster_buff_Description"		"Move speed drastically increased, can move through cliffs and units."
+		"DOTA_Tooltip_modifier_imba_faceless_void_chronosphere_caster_buff_Description"		"Скорость передвижения значительно увеличена, есть возможность передвигаться через врагов и холмы."
 
 		"DOTA_Tooltip_modifier_imba_strafe_aspd"											"Strafe"
-		"DOTA_Tooltip_modifier_imba_strafe_aspd_Description"								"Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+		"DOTA_Tooltip_modifier_imba_strafe_aspd_Description"								"Скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 		"DOTA_Tooltip_modifier_imba_strafe_mount"											"Strafe Mount"
 		"DOTA_Tooltip_modifier_imba_strafe_mount_Description"								"Mounted on an ally! Attack range increased."
 
 		"DOTA_Tooltip_modifier_imba_searing_arrows_active"									"Light My Way"
-		"DOTA_Tooltip_modifier_imba_searing_arrows_active_Description"						"YOU'RE ON FIRE! Granting vision to enemies."
+		"DOTA_Tooltip_modifier_imba_searing_arrows_active_Description"						"ВЫ ГОРИТЕ! Даёт видимость врагам."
 
 		"DOTA_Tooltip_modifier_imba_skeleton_walk_invis"									"Skeleton Walk"
 		"DOTA_Tooltip_modifier_imba_skeleton_walk_invis_Description"						"Invisible, phased, and moving %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% faster."
@@ -1882,28 +1882,28 @@
 		"DOTA_Tooltip_modifier_imba_skeleton_walk_spook_Description"						"Skeletons are spooky! Forced to run away from Clinkz."		
 
 		"DOTA_Tooltip_modifier_imba_skeleton_walk_talent_ms"								"Skeleton Walk"
-		"DOTA_Tooltip_modifier_imba_skeleton_walk_talent_ms_Description"					"Moving %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% faster."
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_talent_ms_Description"					"Передвижение на  %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% быстрее."
 
 		"DOTA_Tooltip_modifier_imba_death_pact_buff"										"Death Pact"
-		"DOTA_Tooltip_modifier_imba_death_pact_buff_Description"							"Damage and health increased."
+		"DOTA_Tooltip_modifier_imba_death_pact_buff_Description"							"Урон и здоровье увеличено."
 
 		"DOTA_Tooltip_modifier_imba_death_pact_talent_debuff"								"Marked for Death"
-		"DOTA_Tooltip_modifier_imba_death_pact_talent_debuff_Description"					"Dying will grant permanent bonuses to the Death Pact's caster."
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_debuff_Description"					"Сменть даст постоянный бонус к тому, кто использовал Death Pact."
 
 		"DOTA_Tooltip_modifier_imba_death_pact_talent_buff"									"Completed Death Pacts"
-		"DOTA_Tooltip_modifier_imba_death_pact_talent_buff_Description"						"Gaining %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE% damage and %dMODIFIER_PROPERTY_EXTRA_HEALTH_BONUS% health from completed Death Pacts."
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_buff_Description"						"Получение %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE% урона и %dMODIFIER_PROPERTY_EXTRA_HEALTH_BONUS% здоровья от завершенных Death Pact."
 
 		"DOTA_Tooltip_modifier_imba_nether_blast_magic_res"									"Nether Weakness"
-		"DOTA_Tooltip_modifier_imba_nether_blast_magic_res_Description"						"Suffers from reduced magic resistance."
+		"DOTA_Tooltip_modifier_imba_nether_blast_magic_res_Description"						"Уменьшена сопротивляемость к магии."
 
 		"DOTA_Tooltip_modifier_imba_decrepify"												"Decrepify"
-		"DOTA_Tooltip_modifier_imba_decrepify_Description"									"Banished, taking extra damage from spells. When Decrpify ends, the stored damage will be unleashed."
+		"DOTA_Tooltip_modifier_imba_decrepify_Description"									"В призрачной форме. Получение дополнительного урона от заклинаний. Когда Decrpify закончится, сохранённый урон будет выпущен."
 
 		"DOTA_Tooltip_modifier_imba_nether_ward_degen"										"Nether Ward"
-		"DOTA_Tooltip_modifier_imba_nether_ward_degen_Description"							"Mana regeneration is reduced. Casting a spell under this effect will make the ward zap you and reverse the spell on you."
+		"DOTA_Tooltip_modifier_imba_nether_ward_degen_Description"							"Регенерация мані уменьшена. Использование заклинания под єтим єффектом заставит ward ударить вас и реверсировать заклинанеи на вас."
 
 		"DOTA_Tooltip_modifier_imba_nether_ward"											"Nether Ward"
-		"DOTA_Tooltip_modifier_imba_nether_ward_Description"								"Disrupting nearby enemies' spellcasting"
+		"DOTA_Tooltip_modifier_imba_nether_ward_Description"								"Мешает врагам использовать заклинания"
 
 		"DOTA_Tooltip_modifier_imba_nether_ward_debuff"										"Mana Flare"
 		"DOTA_Tooltip_modifier_imba_nether_ward_debuff_Description"							"Casting spells will result in a swift zap to the nether regions"
@@ -1915,10 +1915,10 @@
 		"DOTA_Tooltip_modifier_imba_empower_Description"									"Attacks will cleave and deal %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%% increased damage."
 
 		"DOTA_Tooltip_modifier_imba_supercharged"											"Overcharge"
-		"DOTA_Tooltip_modifier_imba_supercharged_Description"								"Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+		"DOTA_Tooltip_modifier_imba_supercharged_Description"								"Скорость передвижения увеличена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 		"DOTA_Tooltip_modifier_imba_skewer_slow"											"Skewered"
-		"DOTA_Tooltip_modifier_imba_skewer_slow_Description"								"Movement speed decreased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack speed decreased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+		"DOTA_Tooltip_modifier_imba_skewer_slow_Description"								"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 		"DOTA_Tooltip_modifier_imba_skewer_entangle"										"Entangled"
 		"DOTA_Tooltip_modifier_imba_skewer_entangle_Description"							"Entangled inside another unit and unable to move."
