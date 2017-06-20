@@ -4283,7 +4283,7 @@
 
 		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile"							"Magic Missile"
 		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_Description"				"Выпускает магический снаряд во врага, оглушая его и нанося ему урон.\n<font color='#FF7800'>Path of vengeance:</font> Если присутствует бОльшее количество врагов в радиусе попадания, то снаряд расходится вплоть до 2-х, целясь в случайных врагов. Это может повторяться любое количество раз до тех пор, пока есть корректные цели, но каждое расхождение уменьшает урон и длительность оглушения."
-		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_Lore"						"Простейшое умение Skywrath, магический снаряд Shendel'я - основный инструмент для мести."
+		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_Lore"						"Простейшое умение Skywrath, магический снаряд Shendel'я - основной инструмент для мести."
 		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_Note0"						"Нельзя ранить ту же цель более одного раза за применение."
 		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_damage"						"УРОН:"
 		"DOTA_Tooltip_ability_imba_vengefulspirit_magic_missile_stun_duration"				"ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ:"
@@ -4301,7 +4301,7 @@
 		"DOTA_Tooltip_ability_imba_vengefulspirit_wave_of_terror_duration"					"ДЛИТЕЛЬНОСТЬ:"
 
 		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura"								"Vengeance Aura"
-		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura_Description"					"Vengeful Spirit's presence increases the physical damage of nearby friendly units. If Vengeful Spirit is slain, her killer will be possessed with a reversed version of Vengeance Aura until Vengeful Spirit revives.\n<font color='#FF7800'>Vindication:</font> Also increases spell power of affected units."
+		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura_Description"					"Присутсвие Vengeful Spirit увеличивает физический урон блищайших дружественных юнинов. Если Vengeful Spirit убьют, то её убийца получит обратный вариант вуры Vengeance Aura до тех пор, пока Vengeful Spirit не возродится.\n<font color='#FF7800'>Vindication:</font> Также увеличивает силу заклинаний подверженных юнитов."
 		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura_Lore"						"Although they may not share her undying passion for revenge, allies do draw on her fanaticism in combat."
 		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura_Note0"						"Bonus damage may appear wrong in the UI, but does correct damage nonetheless."
 		"DOTA_Tooltip_ability_imba_vengefulspirit_command_aura_aura_radius"					"РАДИУС ЭФФЕКТА:"
