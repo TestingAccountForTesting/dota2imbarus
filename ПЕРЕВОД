@@ -1705,7 +1705,7 @@
 		"DOTA_Tooltip_modifier_item_ultimate_scepter_consumed_Description"					"Навсегда получены преимущества от Aghanim's Scepter, +14 к всем атрибутам, +300 здоровья, +250 маны"
 
 		"DOTA_Tooltip_modifier_imba_shrapnel_charges"										"Shrapnel Charges"
-		"DOTA_Tooltip_modifier_imba_shrapnel_charges_Description"							"Можно использовать Shrapnel при наличии хотя бы один заряд."
+		"DOTA_Tooltip_modifier_imba_shrapnel_charges_Description"							"Можно использовать Shrapnel при наличии хотя бы одного заряда."
 
 		"DOTA_Tooltip_modifier_imba_shrapnel_slow"											"Shrapnel"
 		"DOTA_Tooltip_modifier_imba_shrapnel_slow_Description"								"Замедлены. Sniper имеет возможность атаковать вас с любого расстояния, до тех пор, пока вы находитесь под Shrapnel."
@@ -1744,25 +1744,25 @@
 		"DOTA_Tooltip_modifier_imba_dismember_Description"									"СВЕЖЕЕ МЯСЦО!!!"
 
 		"DOTA_Tooltip_modifier_imba_storm_bolt_crit"										"MANmentum"
-		"DOTA_Tooltip_modifier_imba_storm_bolt_crit_Description"							"The next attack is a guaranteed critical hit."
+		"DOTA_Tooltip_modifier_imba_storm_bolt_crit_Description"							"Гарантированный критический удар при следующей атаке."
 
 		"DOTA_Tooltip_modifier_imba_great_cleave_active"									"Overkill"
-		"DOTA_Tooltip_modifier_imba_great_cleave_active_Description"						"Losing cleave to gain True Strike and ignore part of enemies' armor."
+		"DOTA_Tooltip_modifier_imba_great_cleave_active_Description"						"Потеря возможности расстекающего удара, получение True Strike и игнорирование части вражеской брони."
 
 		"DOTA_Tooltip_modifier_imba_warcry"													"Warcry!!!"
-		"DOTA_Tooltip_modifier_imba_warcry_Description"										"Sven's here to pump you up! Increased armor, move speed and tenacity."
+		"DOTA_Tooltip_modifier_imba_warcry_Description"										"Sven ТУТ чтобы помочь вам подкачаться! Увеличена броня, скорость передвижения и стойкость."
 
 		"DOTA_Tooltip_modifier_imba_warcry_immunity"										"Magic Immune"
-		"DOTA_Tooltip_modifier_imba_warcry_immunity_Description"							"You're so pumped up, you're actually immune to magic."
+		"DOTA_Tooltip_modifier_imba_warcry_immunity_Description"							"Вы перекачались и у вас появился иммунитет к магии."
 
 		"DOTA_Tooltip_modifier_imba_god_strength"											"God's Strength"
-		"DOTA_Tooltip_modifier_imba_god_strength_Description"								"PUMPED UP!!! Increased damage."
+		"DOTA_Tooltip_modifier_imba_god_strength_Description"								"ВЫ НАКАЧАНЫ!!! УВЕЛИЧЕН УРОН!"
 
 		"DOTA_Tooltip_modifier_imba_god_strength_allies"									"God's Strength"
-		"DOTA_Tooltip_modifier_imba_god_strength_allies_Description"						"PUMPED UP!!! Increased damage."
+		"DOTA_Tooltip_modifier_imba_god_strength_allies_Description"						"ВЫ НАКАЧАНЫ!!! УВЕЛИЧЕН УРОН!"
 
 		"DOTA_Tooltip_modifier_imba_proximity_mine_building_res"							"Building Mines Protection"
-		"DOTA_Tooltip_modifier_imba_proximity_mine_building_res_Description"				"Building is protected from mines."
+		"DOTA_Tooltip_modifier_imba_proximity_mine_building_res_Description"				"Здание защищено от мин."
 
 		"DOTA_Tooltip_modifier_imba_statis_trap_root"										"Stasis Trap"
 		"DOTA_Tooltip_modifier_imba_statis_trap_root_Description"							"Обездвижены"
@@ -1801,22 +1801,22 @@
 		"DOTA_Tooltip_modifier_imba_epicenter_slow_Description"								"Slowed by a pulse from Epicenter."
 
 		"DOTA_Tooltip_modifier_imba_rearm_animation"										"Rearm"
-		"DOTA_Tooltip_modifier_imba_rearm_animation_Description"							"Currently reloading your arsenal."
+		"DOTA_Tooltip_modifier_imba_rearm_animation_Description"							"Происходит перезарядка вашего арсенала."
 
 		"DOTA_Tooltip_modifier_imba_rearm_overdrive"										"Overdrive!"
-		"DOTA_Tooltip_modifier_imba_rearm_overdrive_Description"							"Increased spell power by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE% for its missing mana."
+		"DOTA_Tooltip_modifier_imba_rearm_overdrive_Description"							"Увеличена сила заклинаний на %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE% от отсутствующей маны."
 
 		"DOTA_Tooltip_modifier_imba_rearm_shield"											"Shield"
-		"DOTA_Tooltip_modifier_imba_rearm_shield_Description"								"Absorbs incoming damage."
+		"DOTA_Tooltip_modifier_imba_rearm_shield_Description"								"Поглощение получаемого урона."
 
 		"DOTA_Tooltip_modifier_imba_laser_blind"											"Glare"
-		"DOTA_Tooltip_modifier_imba_laser_blind_Description"								"Completely blind and unable to hit with physical attacks"
+		"DOTA_Tooltip_modifier_imba_laser_blind_Description"								"Полностью слепы, лишены возможность наносить повреждения физическими атаками."
 
 		"DOTA_Tooltip_modifier_imba_march_dismantle"										"Dismantled"
-		"DOTA_Tooltip_modifier_imba_march_dismantle_Description"							"Decreased attack damage per stack"
+		"DOTA_Tooltip_modifier_imba_march_dismantle_Description"							"Уменеьшеный урон за каждый стак."
 
 		"DOTA_Tooltip_modifier_imba_march_drone"											"Electrocuted"
-		"DOTA_Tooltip_modifier_imba_march_drone_Description"								"You are going nuts."
+		"DOTA_Tooltip_modifier_imba_march_drone_Description"								"ДА вы с ума сходите . . ."
 
 		"DOTA_Tooltip_modifier_imba_venomous_gale"											"Venomous Gale"
 		"DOTA_Tooltip_modifier_imba_venomous_gale_Description"								"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and taking continuous damage."
@@ -1954,13 +1954,13 @@
 		"DOTA_Tooltip_modifier_imba_battle_trance_Description"								"Увеличена скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 		"DOTA_Tooltip_modifier_imba_earthshock_slow"										"Earthshock"
-		"DOTA_Tooltip_modifier_imba_earthshock_slow_Description"							"Movement speed slowed."
+		"DOTA_Tooltip_modifier_imba_earthshock_slow_Description"							"Скорость передвижения уменьшена."
 
 		"DOTA_Tooltip_modifier_imba_trembling_steps_buff"									"Hulking Beast"
 		"DOTA_Tooltip_modifier_imba_trembling_steps_buff_Description"						"Moving will damage and slow nearby enemies."
 
 		"DOTA_Tooltip_modifier_imba_trembling_steps_debuff"									"Hulking Beast"
-		"DOTA_Tooltip_modifier_imba_trembling_steps_debuff_Description"						"Movement speed slowed."
+		"DOTA_Tooltip_modifier_imba_trembling_steps_debuff_Description"						"Скорость передвижения уменьшена."
 
 		"DOTA_Tooltip_modifier_imba_overpower_buff"											"Overpower"
 		"DOTA_Tooltip_modifier_imba_overpower_buff_Description"								"Attack speed greatly increased."
@@ -2026,13 +2026,13 @@
 		"DOTA_Tooltip_modifier_imba_earthspike_stun_Description"							"Оглушены."
 
 		"DOTA_Tooltip_modifier_imba_lion_hex"												"Hex"
-		"DOTA_Tooltip_modifier_imba_lion_hex_Description"									"Transformed into a frog! After a short duration, hex spreads to nearby teammates."
+		"DOTA_Tooltip_modifier_imba_lion_hex_Description"									"ПРЕВРАЩЕНЫ В ЖАБУ! Через небольшой период времени hex распространится на ближайших союзников."
 
 		"DOTA_Tooltip_modifier_imba_manadrain_aura_debuff"									"Mana Drain Aura"
-		"DOTA_Tooltip_modifier_imba_manadrain_aura_debuff_Description"						"Your magical energies are being sucked out over time."
+		"DOTA_Tooltip_modifier_imba_manadrain_aura_debuff_Description"						"Вашу магическую энергию высасывают с вас со временем."
 
 		"DOTA_Tooltip_modifier_imba_manadrain_debuff"										"Mana Drain"
-		"DOTA_Tooltip_modifier_imba_manadrain_debuff_Description"							"Losing mana and taking damage equal to lost mana."
+		"DOTA_Tooltip_modifier_imba_manadrain_debuff_Description"							"Теряете ману и получаете урон равный потерянной мане."
 
 		"DOTA_Tooltip_modifier_imba_manadrain_buff"											"Mana Pump"
 		"DOTA_Tooltip_modifier_imba_manadrain_buff_Description"								"Being pumped with mana over time."
@@ -2125,10 +2125,10 @@
 		"DOTA_Tooltip_modifier_imba_silencer_last_word_debuff_Description"					"Disarmed. Casting spells will repeat Last Word after silence ends."
 
 		"DOTA_Tooltip_modifier_imba_silencer_last_word_repeat_thinker"						"Last Word"
-		"DOTA_Tooltip_modifier_imba_silencer_last_word_repeat_thinker_Description"			"You immediately regret your decision. Last Word will be recast on you after this ends."
+		"DOTA_Tooltip_modifier_imba_silencer_last_word_repeat_thinker_Description"			"Вы поняли что ваш выбор был неверным.  Last Word будет наложен снова после окончания."
 
 		"DOTA_Tooltip_imba_silencer_last_word_silence_aura"									"Last Word"
-		"DOTA_Tooltip_imba_silencer_last_word_silence_aura_Description"						"Don't cast if you can read this, unless magic immune."
+		"DOTA_Tooltip_imba_silencer_last_word_silence_aura_Description"						"Если вы это прочли - не используйте заклинаний без иммунитета к магии."
 
 		"DOTA_Tooltip_modifier_imba_silencer_arcane_supremacy"								"Intelligence Steal"
 		"DOTA_Tooltip_modifier_imba_silencer_arcane_supremacy_Description"					"Total intelligence stolen."
